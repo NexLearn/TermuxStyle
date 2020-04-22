@@ -1,0 +1,32 @@
+آموزش زیبا سازی محیط ترموکس 
+
+کانال ما : 
+
+@NexLearn 
+
+~ ~ ~ ~ ~ ~ ~
+
+1- apt update && apt upgrade
+
+
+2- apt install git
+
+
+3- cd
+
+
+4- git clone https://github.com/darkwarrior3/termuxstyling.git
+
+
+5- cd termuxstyling 
+
+6- ls
+
+
+7- chmod +x setup.sh
+
+
+8- اسمی که میخواین زیبا بشه و بالای صفحه نمایش داده بشه
+
+
+9- ترموکس رو ببندید و دوباره باز کنید تا تغییرات اعمال بشه
